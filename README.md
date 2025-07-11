@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently learning: Machine Learning and its Applications<br>Looking For:AI/ML projects
+Currently learning: Machine Learning and its Applications.<br>Looking For:AI/ML projects.
 
 
 ## 🌐 Socials:
